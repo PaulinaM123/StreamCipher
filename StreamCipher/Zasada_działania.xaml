@@ -1,0 +1,27 @@
+﻿<Window x:Class="POD_proj.Zasada_działania"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POD_proj"
+        mc:Ignorable="d"
+             Title="Zasada_działania" Height="492.95" Width="734.5">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="45*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Generator rozrzedzający" HorizontalAlignment="Left" Margin="30,10,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="34,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" Grid.RowSpan="2"><Run Text="Generator rozrzedzający w"/><Run Text="y"/><Run Text="korzystuje dwa rejestry LFSR."/><Run Text=" Bity wyjściowe jednego z rejestrów decyduję, które bity wyjściowe drugiego rejestru będ"/><Run Text="ą"/><Run Text=" wykorzystane, a które odrzuco"/><Run Text="n"/><Run Text="e."/><LineBreak/><Run Text="J"/><Run Text="eśli na wyjściu rejestru S pojawi się '1', bit wyjściowy rejestru A jest dołączany do ciągu klucza ki. Obydwa rejestry pracują równocześnie"/><Run Text="."/><LineBreak/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="ki" HorizontalAlignment="Left" Height="24" Margin="285,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Row="1" BorderBrush="#FF7E99EA"/>
+        <Label Content="Generowany ciąg k:" HorizontalAlignment="Left" Margin="285,18,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.263,0.673" Grid.Row="1"/>
+        <Label Content="Wizualizacja&#xA;LFSR-A: 1101&#xA;LFSR-S: 011" HorizontalAlignment="Left" Margin="34,10,0,0" VerticalAlignment="Top" Width="92" Grid.Row="1" FontSize="14"/>
+        <Button Content="Rozpocznij" HorizontalAlignment="Left" Margin="151,10,0,0" VerticalAlignment="Top" Width="93" Click="Button_Click" Grid.Row="1" RenderTransformOrigin="0.478,-0.075" Height="30" BorderBrush="#FFE7EEFB" Foreground="#FFF7F4F4" Background="#FF0080FF"/>
+        <DataGrid x:Name="dgData" HorizontalAlignment="Left" Height="104" Margin="30,88,0,0" VerticalAlignment="Top" Width="675" Grid.Row="1" BorderBrush="#FF3B7FC1" Background="#FF94CFEA"/>
+        <Button Content="Następny krok" HorizontalAlignment="Left" Margin="151,45,0,0" Grid.Row="1" VerticalAlignment="Top" Width="93" Height="30" Click="Button_Click_1" BorderBrush="#FFE7EEFB" Foreground="#FFF7F4F4" Background="#FF0080FF"/>
+        <Image HorizontalAlignment="Left" Height="254" Margin="376,0,0,0" VerticalAlignment="Top" Width="340" Source="zdj.PNG" Grid.RowSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="33" Margin="448,177,0,0" VerticalAlignment="Top" Width="140" Source="okres.PNG"/>
+        <TextBlock HorizontalAlignment="Left" Margin="399,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Jeżeli dłu"/><Run Text="gości rejestrów sa względnie pierwsze, to okres takiego generatora wynosi"/><Run Text=":"/></TextBlock>
+
+    </Grid>
+</Window>

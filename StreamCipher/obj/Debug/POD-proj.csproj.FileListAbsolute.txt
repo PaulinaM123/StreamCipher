@@ -1,0 +1,214 @@
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\POD-proj.csprojResolveAssemblyReference.cache
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\MainWindow.g.cs
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\App.g.cs
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\POD-proj_MarkupCompile.cache
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\POD-proj_MarkupCompile.lref
+c:\users\pm\Source\Repos\POD-proj\bin\Debug\POD-proj.exe.config
+c:\users\pm\Source\Repos\POD-proj\bin\Debug\POD-proj.exe
+c:\users\pm\Source\Repos\POD-proj\bin\Debug\POD-proj.pdb
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\Właściwości.g.cs
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\Zasada_działania.g.cs
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\MainWindow.baml
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\Właściwości.baml
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\Zasada_działania.baml
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\POD-proj.g.resources
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\POD_proj.Properties.Resources.resources
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\POD-proj.csproj.GenerateResource.Cache
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\POD-proj.csproj.CoreCompileInputs.cache
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\POD-proj.exe
+c:\users\pm\Source\Repos\POD-proj\obj\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\POD-proj\bin\Debug\POD-proj.exe.config
+C:\Users\PM\Desktop\POD-proj\bin\Debug\POD-proj.exe
+C:\Users\PM\Desktop\POD-proj\bin\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\POD-proj\obj\Debug\POD-proj.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\POD-proj\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Właściwości.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\POD-proj_MarkupCompile.cache
+C:\Users\PM\Desktop\POD-proj\obj\Debug\POD-proj_MarkupCompile.lref
+C:\Users\PM\Desktop\POD-proj\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Właściwości.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\POD-proj.g.resources
+C:\Users\PM\Desktop\POD-proj\obj\Debug\POD_proj.Properties.Resources.resources
+C:\Users\PM\Desktop\POD-proj\obj\Debug\POD-proj.csproj.GenerateResource.Cache
+C:\Users\PM\Desktop\POD-proj\obj\Debug\POD-proj.csproj.CoreCompileInputs.cache
+C:\Users\PM\Desktop\POD-proj\obj\Debug\POD-proj.exe
+C:\Users\PM\Desktop\POD-proj\obj\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\POD-proj.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Generator.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Właściwości.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\POD-proj_MarkupCompile.cache
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\POD-proj_MarkupCompile.lref
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\POD-proj.exe
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\Testy\POD-proj\bin\Debug\POD-proj.exe.config
+C:\Users\PM\Desktop\Testy\POD-proj\bin\Debug\POD-proj.exe
+C:\Users\PM\Desktop\Testy\POD-proj\bin\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Generator.baml
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Właściwości.baml
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\POD-proj.g.resources
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\POD_proj.Properties.Resources.resources
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\POD-proj.csproj.GenerateResource.Cache
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\POD-proj.csproj.CoreCompileInputs.cache
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Szyfrator.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Szyfrator.baml
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Deszyfrator.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Deszyfrator.baml
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Deszyfrator_działanie.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Szyfrator_działanie.g.cs
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Deszyfrator_działanie.baml
+C:\Users\PM\Desktop\Testy\POD-proj\obj\Debug\Szyfrator_działanie.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Deszyfrator.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Deszyfrator_działanie.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Generator.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Szyfrator.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Szyfrator_działanie.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Deszyfrator.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Deszyfrator_działanie.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Generator.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Szyfrator.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Szyfrator_działanie.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Testy.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Testy.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Testy_opis.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Testy_opis.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Długiej serii.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Pojedynczych bitów.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Pokerowy.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Serii.g.cs
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Długiej serii.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Pojedynczych bitów.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Pokerowy.baml
+C:\Users\PM\Desktop\POD-proj\obj\Debug\Serii.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\bin\Debug\POD-proj.exe.config
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\bin\Debug\POD-proj.exe
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\bin\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\POD-proj.csprojAssemblyReference.cache
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Deszyfrator.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Deszyfrator_działanie.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Długiej serii.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Generator.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Pojedynczych bitów.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Pokerowy.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Serii.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Szyfrator.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Szyfrator_działanie.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Testy.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Testy_opis.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Właściwości.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\POD-proj_MarkupCompile.cache
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\POD-proj_MarkupCompile.lref
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Deszyfrator.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Deszyfrator_działanie.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Długiej serii.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Generator.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Pojedynczych bitów.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Pokerowy.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Serii.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Szyfrator.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Szyfrator_działanie.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Testy.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Testy_opis.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Właściwości.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\POD-proj.g.resources
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\POD_proj.Properties.Resources.resources
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\POD-proj.csproj.GenerateResource.cache
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\POD-proj.exe
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_6\POD-proj\obj\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\bin\Debug\POD-proj.exe.config
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\bin\Debug\POD-proj.exe
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\bin\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\POD-proj.csprojAssemblyReference.cache
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Deszyfrator.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Deszyfrator_działanie.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Długiej serii.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Generator.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Pojedynczych bitów.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Pokerowy.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Serii.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Szyfrator.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Szyfrator_działanie.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Testy.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Testy_opis.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Właściwości.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\POD-proj_MarkupCompile.cache
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\POD-proj_MarkupCompile.lref
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Deszyfrator.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Deszyfrator_działanie.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Długiej serii.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Generator.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Pojedynczych bitów.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Pokerowy.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Serii.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Szyfrator.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Szyfrator_działanie.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Testy.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Testy_opis.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Właściwości.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\POD-proj.g.resources
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\POD_proj.Properties.Resources.resources
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\POD-proj.csproj.GenerateResource.cache
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\POD-proj.exe
+C:\Users\PM\Desktop\GitHub\StreamCipher\POD-proj\obj\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\bin\Debug\POD-proj.exe.config
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\bin\Debug\POD-proj.exe
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\bin\Debug\POD-proj.pdb
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\POD-proj.csprojAssemblyReference.cache
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Deszyfrator.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Deszyfrator_działanie.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Długiej serii.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Generator.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Pojedynczych bitów.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Pokerowy.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Serii.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Szyfrator.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Szyfrator_działanie.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Testy.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Testy_opis.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Właściwości.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\POD-proj_MarkupCompile.cache
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\POD-proj_MarkupCompile.lref
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Deszyfrator.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Deszyfrator_działanie.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Długiej serii.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Generator.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Pojedynczych bitów.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Pokerowy.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Serii.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Szyfrator.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Szyfrator_działanie.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Testy.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Testy_opis.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Właściwości.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\POD-proj.g.resources
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\POD_proj.Properties.Resources.resources
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\POD-proj.csproj.GenerateResource.cache
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\POD-proj.exe
+C:\Users\PM\Desktop\GitHub\StreamCipher\StreamCipher\obj\Debug\POD-proj.pdb

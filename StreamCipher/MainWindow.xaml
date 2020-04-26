@@ -1,0 +1,27 @@
+﻿<Window x:Class="POD_proj.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POD_proj"
+        mc:Ignorable="d"
+        Title="Podstawy_ochrony_danych"  Height="514" Width="1091.5">
+    <Grid>
+        <Label Content="Autor: Paulina Mrozek" HorizontalAlignment="Left" Margin="12,452,0,0" VerticalAlignment="Top"/>
+        <TabControl HorizontalAlignment="Left" Height="450" Margin="1,-1,0,0" VerticalAlignment="Top" Width="1080">
+            <TabItem Header="Generator">
+                <local:Generator/>
+            </TabItem>
+            <TabItem Header="Szyfrator">
+                <local:Szyfrator/>
+            </TabItem>
+            <TabItem Header="Deszyfrator">
+                <local:Deszyfrator/>
+            </TabItem>
+            <TabItem Header="Testy">
+                <local:Testy/>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

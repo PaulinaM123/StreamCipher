@@ -1,0 +1,32 @@
+﻿<Window x:Class="POD_proj.Testy_opis"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POD_proj"
+        mc:Ignorable="d"
+        Title="Testy_opis" Height="322.429" Width="606.714">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="15,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="566" Height="37"><Run Text="      "/><Run Text="W standardzie "/><Run Text="FIPS 140-2 rekomenduje się 4 testy statystyczne badania losowości ciągu. W każdym te"/><Run Text="ś"/><Run Text="cie p"/><Run Text="rzyjmuje się, że badana próbka ma długość 20 000 bitów."/></TextBlock>
+        <Label Content="Źródło:  &quot;Ochrona danych i zabezpieczenia w systemach teleinformatycznych&quot;, pod red. Janusza Stokłosy, Wyd. 2 popr. , Poznań, &#xD;&#xA;&#x9;Wydawnictwo Politechniki Poznańskiej, 2005, ISBN 83-7143-478-2." HorizontalAlignment="Left" Margin="3,236,0,0" VerticalAlignment="Top" Width="583" Height="42" FontSize="9"/>
+        <TabControl HorizontalAlignment="Left" Height="184" Margin="9,50,0,0" VerticalAlignment="Top" Width="574">
+            <TabItem Header="Pojedynczych bitów" >
+                <local:Pojedynczych_bitów Background="#FF75CCFD"/>
+            </TabItem>
+            <TabItem Header="Serii">
+                <local:Serii Background="#FF75CCFD"/>
+            </TabItem>
+            <TabItem Header="Długiej serii">
+                <local:Długiej_serii Background="#FF75CCFD"/>
+            </TabItem>
+            <TabItem Header="Pokerowy" >
+                <local:Pokerowy Background="#FF75CCFD"/>
+
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

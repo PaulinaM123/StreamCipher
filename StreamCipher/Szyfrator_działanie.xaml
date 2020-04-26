@@ -1,0 +1,20 @@
+﻿<Window x:Class="POD_proj.Szyfrator_działanie"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POD_proj"
+        mc:Ignorable="d"
+        Title="Szyfrator_działanie" Height="294.429" Width="606.714">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="235*"/>
+            <ColumnDefinition Width="364*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="31,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="85" Width="258" Grid.ColumnSpan="2"><Run Text="Szyfrator strumieniowy -"/><Run Text=" "/><Run Text="algorytm symetryczny, który szyfruje oddzielnie każdy bit wiadomości. Algorytm ten składa się z generatora strumienia bitowego, będącego kluczem szyfrującym oraz elementu dodającego "/><Run Text="- "/><Run Text="operacji XOR"/><Run Text="."/></TextBlock>
+        <Image HorizontalAlignment="Left" Height="46" Margin="54,124,0,0" VerticalAlignment="Top" Width="175" Source="xor.PNG"/>
+        <TextBlock HorizontalAlignment="Left" Margin="73,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="56" Width="340" Grid.ColumnSpan="2"><Run Text="- strumień bitów będący kluczem, "/><LineBreak/><Run Text="- "/><Run Text="tekst jawny"/><LineBreak/><Run Text="- "/><Run Text="szyfrogram."/></TextBlock>
+        <Image HorizontalAlignment="Left" Height="53" Margin="47,182,0,0" VerticalAlignment="Top" Width="33" Source="litery.png"/>
+        <Image HorizontalAlignment="Left" Height="130" Margin="71,48,0,0" VerticalAlignment="Top" Width="290" Source="szyfrator.jpg" Grid.Column="1"/>
+    </Grid>
+</Window>

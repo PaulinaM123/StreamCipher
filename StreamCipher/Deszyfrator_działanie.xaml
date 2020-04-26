@@ -1,0 +1,21 @@
+﻿<Window x:Class="POD_proj.Deszyfrator_działanie"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POD_proj"
+        mc:Ignorable="d"
+        Title="Deszyfrator_działanie"  Height="294.429" Width="606.714">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="237*"/>
+            <ColumnDefinition Width="34*"/>
+            <ColumnDefinition Width="328*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="31,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="85" Width="258" Grid.ColumnSpan="3"><Run Text="Odszyfrowywanie wiadomości "/><Run Text="zaszyfrowanej szyfratorem strumieniowym "/><Run Text="odbywa się w "/><Run Text="analogiczny sposób jak szyfrowanie"/><Run Text=" – generujemy strumień szyfrujący i XOR-ujemy go z szyfrogramem:"/></TextBlock>
+        <Image HorizontalAlignment="Left" Height="38" Margin="31,123,0,0" VerticalAlignment="Top" Width="261" Source="xor2.PNG" Grid.ColumnSpan="3"/>
+        <TextBlock HorizontalAlignment="Left" Margin="73,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="55" Width="340" Grid.ColumnSpan="3"><Run Text="- strumień bitów będący kluczem, "/><LineBreak/><Run Text="- "/><Run Text="tekst jawny"/><LineBreak/><Run Text="- "/><Run Text="szyfrogram."/></TextBlock>
+        <Image HorizontalAlignment="Left" Height="53" Margin="47,182,0,0" VerticalAlignment="Top" Width="33" Source="litery.png"/>
+        <Image HorizontalAlignment="Left" Height="130" Margin="35,48,0,0" VerticalAlignment="Top" Width="290" Source="deszyfrator.jpg" Grid.Column="2"/>
+    </Grid>
+</Window>
